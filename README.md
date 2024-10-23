@@ -18,7 +18,7 @@ Before getting started, make sure you have the following installed:
 
 Follow these steps to install and set up the MEV Bot Solana:
 
-1. Clone this repository to your local machine: `git clone https://github.com/Nicolopez603/mev-bot-solana.git`
+1. Clone this repository to your local machine: `git clone https://github.com/Kelvin-1013/solana-jito-pumpfun-mevbot.git`
 
 2. Navigate to the project directory: `cd mev-bot-solana`
 
